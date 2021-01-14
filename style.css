@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+
+}
+
+nav  a{
+    
+    font-size: 20px;
+    
+}
+.brand-style{
+    color: rgb(228, 92, 92);
+    font-size: 40px;
+}
+.brand-style span{
+    color: rgb(7, 6, 73);
+}
+
+header{
+    background-color: rgb(255, 238, 232);
+}
+
+
+
+header img{
+    width: 100%;
+}
+.react{
+    color: rgb(190, 79, 79);
+    font-size: 60px;
+    font-weight: 600px;
+}
+.run{
+    color: rgb(32, 32, 98);
+    font-size: 60px;
+    font-weight: 600px;
+}
+.btn1{
+    border: none;
+    outline: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: white;
+    background: linear-gradient(rgb(84, 94, 236),blue);
+    transition: 1s;
+}
+.btn1:hover{
+    background: linear-gradient(blue,rgb(84, 94, 236));
+    
+}
+.btn1 img{
+    width: 25px;
+    
+    
+}
+/* end header */
+
+
+
+/* casual shoes start */
+.dolar{
+    color: rgb(246, 72, 72);
+    font-size: 30px;
+    
+}
+.casual {
+    border: none;
+    
+}
+.img-background{
+    background-color: rgb(241, 241, 241);
+    border-radius: 10%;
+}
+
+/* shopping facilities start */
+.box-shadow{
+    box-shadow: 0px 0px 40px rgb(226, 224, 224);
+}
+.box img{
+    width: 70px;
+    
+}
+
+/* footer start*/
+.contact{
+   background-color: dimgray;
+   height: 300px;
+color: white;
+}
+hr{
+    width: 50%;
+    
+}
+i{
+    font-size: 70px;
+    padding: 20px;
+    color: rgb(48, 130, 236);
+   background-color: white;
+}
